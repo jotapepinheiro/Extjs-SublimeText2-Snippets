@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+    <![CDATA[if (!Ext.isIE) console.clear();]]>
+    </content>
+    <tabTrigger>con</tabTrigger>
+    <scope>source.js</scope>
+    <description>Console Clear</description>
+</snippet>
